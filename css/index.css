@@ -1,3 +1,6 @@
+html{
+    touch-action: none;
+}
 .container{
     width:800px;
     height: 200px;
