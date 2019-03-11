@@ -14,3 +14,7 @@ window.onload=function () {
         lastTouchEnd=now;  //当前为最后一次触摸
     },false);  
 };
+
+document.getElementById('btn1').onclick=function(){
+    alert("你点了我！");
+}
